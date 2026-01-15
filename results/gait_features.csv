@@ -1,0 +1,155 @@
+fps,duration_s,cadence_spm,L_stride_time_mean_s,R_stride_time_mean_s,step_time_mean_s,step_time_cv,L_stride_len_norm_mean,R_stride_len_norm_mean,step_width_norm_mean,step_width_norm_std,_L_strikes_idx,_R_strikes_idx,L_knee_angle_min_deg,L_knee_angle_max_deg,L_knee_ROM_deg,L_knee_mean_deg,L_knee_std_deg,R_knee_angle_min_deg,R_knee_angle_max_deg,R_knee_ROM_deg,R_knee_mean_deg,R_knee_std_deg,L_hip_angle_min_deg,L_hip_angle_max_deg,L_hip_ROM_deg,L_hip_mean_deg,L_hip_std_deg,R_hip_angle_min_deg,R_hip_angle_max_deg,R_hip_ROM_deg,R_hip_mean_deg,R_hip_std_deg,L_ank_angle_min_deg,L_ank_angle_max_deg,L_ank_ROM_deg,L_ank_mean_deg,L_ank_std_deg,R_ank_angle_min_deg,R_ank_angle_max_deg,R_ank_ROM_deg,R_ank_mean_deg,R_ank_std_deg,L_vert_accel_peak,R_vert_accel_peak,L_vert_accel_rms,R_vert_accel_rms,symmetry_stride_time_SI,symmetry_stride_len_SI,rule_label,rule_hits,plan_summary,plan_markdown,video
+30.0,72.93333333333334,130.80438756855577,0.8862500000000001,0.9372294372294373,0.55042194092827,0.9017190996788061,0.1502772354945099,0.1504310202908628,0.43598492857042814,0.1842985434189086,"[39, 57, 85, 106, 144, 200, 268, 286, 303, 315, 327, 342, 381, 399, 417, 425, 441, 454, 462, 473, 482, 531, 564, 623, 641, 658, 680, 711, 721, 814, 832, 842, 876, 908, 930, 938, 1002, 1034, 1044, 1073, 1097, 1109, 1124, 1151, 1178, 1210, 1231, 1292, 1328, 1372, 1392, 1409, 1459, 1487, 1526, 1550, 1570, 1618, 1648, 1662, 1702, 1732, 1771, 1785, 1813, 1832, 1850, 1903, 1910, 1931, 1955, 1967, 1978, 1990, 2003, 2026, 2046, 2057, 2069, 2087, 2166]","[11, 62, 112, 175, 197, 230, 243, 267, 283, 312, 325, 346, 354, 383, 409, 429, 452, 461, 487, 509, 527, 558, 610, 653, 680, 709, 731, 774, 825, 863, 873, 909, 934, 954, 972, 1003, 1020, 1048, 1058, 1079, 1106, 1121, 1164, 1173, 1229, 1286, 1313, 1332, 1378, 1393, 1451, 1469, 1491, 1537, 1566, 1618, 1649, 1696, 1739, 1770, 1781, 1798, 1818, 1838, 1855, 1864, 1883, 1909, 1930, 1952, 1989, 2025, 2035, 2046, 2055, 2074, 2089, 2176]",0.05974092345394087,179.9405786805831,179.88083775712914,138.21992660162763,60.83023087254747,7.978198365879127,179.95504234059598,171.97684397471684,137.17776338084587,57.86318965562084,0.0940179017141082,179.9342365022326,179.8402186005185,137.34938498844332,54.936224743016375,11.836634940920886,179.9130477188209,168.07641277790003,132.7118422155979,53.4661920877224,2.5593811570919365,179.92445710710084,177.3650759500089,144.0155785084681,30.498368565019927,8.327514531796071,179.92064925164425,171.59313471984817,128.5351501762511,24.232993788461684,10.436728170939919,17.802104779652172,0.9625211532235837,1.0612116338832307,0.05591446289929086,0.0010228171868650563,ataxic-like,ataxic-like,Ataxic plan generated,"# Gait Rehab Plan
+
+## Ataxic Gait
+
+**Goals**
+- Enhance trunk control and balance
+- Improve timing/accuracy of limb movements
+- Reduce fall risk with deliberate pacing
+**Precautions**
+- Wide-base device initially (quad cane/walker)
+- Avoid fatigue; rest to keep movements accurate
+**Core Interventions (with dosage)**
+- **Frenkel’s coordination set** — Slow, visually guided heel-to-shin, target taps, foot circles (**Dose:** 10–15 min, 5–6 days/week)
+- **Static→dynamic balance** — Feet together → semi-/full tandem; then line-walk with focus (**Dose:** 10–15 min/session, daily)
+- **Core stabilization** — Pelvic tilts, dead bug, side planks (as tolerated) (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **Sensory weighting** — Light ankle/wrist weights or weighted vest for feedback (**Dose:** Short bouts during gait drills; avoid overloading)
+",0cQOoqhD9Mo.mp4
+29.97002997002997,13.9139,181.1138501785984,0.6778701754385965,0.6005999999999999,0.34831544715447155,0.6043954757914511,0.2305098831437501,0.1743732369799526,0.22266795695921612,0.1561548458873756,"[28, 52, 87, 101, 138, 156, 181, 198, 220, 235, 254, 268, 279, 286, 321, 335, 357, 368, 386, 414]","[22, 33, 65, 83, 92, 114, 134, 142, 162, 178, 194, 206, 223, 232, 246, 262, 275, 295, 327, 351, 381, 400]",139.4292775969875,179.89220591337795,40.462928316390446,168.91321195235525,7.5655855598549,135.98017522700016,179.91500848821394,43.93483326121378,165.9761537983737,7.491191463884579,158.0223969831044,179.9598550770259,21.93745809392152,174.42741585781656,4.882967198997278,154.45630873110053,179.95519775335472,25.49888902225419,172.67287565835875,5.903584026580457,98.94219215746129,179.711432205509,80.7692400480477,136.9209351752502,11.675649956533908,96.33051176814753,164.7895636623055,68.45905189415798,132.75318876556747,8.073952379217584,4.147855811912488,4.187238050253416,1.0343466984864627,0.998603910971884,0.12087911898812473,0.27729801812269206,normal/unclear,,"No strong abnormality detected by rules; prioritize general fitness: brisk walking 20–30 min/day, balance circuits 2–3×/wk, global strength (push/pull/hinge/squat) 2–3×/wk.","# General Conditioning Plan
+
+- Brisk walk 20–30 min daily
+- Balance circuit (tandem stance, single-leg support near counter) 10–15 min, 2–3×/wk
+- Strength: 2–3 sets × 8–12 reps of squats, hip hinges, rows, presses, 2–3×/wk
+",0gAHlm79Bjo.mp4
+29.97002997002997,5.8058000000000005,134.3484102104792,1.0210200000000003,0.5950388888888889,0.5824,0.7535002105561844,0.3151161543064286,0.18304171248715936,0.2617700212722562,0.11241737038861535,"[12, 70, 86, 124, 144, 165]","[21, 34, 54, 82, 106, 116, 128]",155.18749374633595,179.9518343178607,24.76434057152474,173.0525045105355,6.0096274822346,144.65254139575373,179.78915376205788,35.13661236630415,170.40821679789937,8.953984159930265,169.880629837005,179.9600341649105,10.079404327905507,176.23308800286253,2.551467597030513,166.03604635552998,179.9587205085275,13.92267415299753,173.5915580078279,3.6048326746933084,99.32762043425198,139.55947737915332,40.23185694490134,122.32363418197733,8.409740246472131,99.17860623240796,167.46068697849094,68.28208074608298,121.31679078860566,9.99745949161836,2.795909477692249,2.6636060363173995,0.6339743369053711,0.6414368461035806,0.5271851276807624,0.5302513332444513,hemiplegic-like,hemiplegic-like,Hemiplegic plan generated,"# Gait Rehab Plan
+
+## Hemiplegic Gait
+
+**Goals**
+- Restore symmetrical stance and step timing
+- Facilitate normal kinematics (heel strike, knee control)
+- Strengthen key weak groups (dorsiflexors, hip flexors/abductors)
+**Precautions**
+- Guard against knee hyperextension in stance
+- Use harness/parallel bars early if balance is low
+**Core Interventions (with dosage)**
+- **Weight-shift re-education** — Mirror-guided shifts onto affected limb between parallel bars (**Dose:** 3×10 slow shifts, daily)
+- **Gait phase drills** — Step initiation with heel-first contact; controlled knee flexion (**Dose:** 3×10 steps forward/back, daily)
+- **Strength: dorsiflexors & hip abductors** — Band dorsiflexion; side-lying hip abduction; step-ups (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **FES for foot drop (if available)** — Stimulate tibialis anterior during swing to ensure toe clearance (**Dose:** During 10–20 min walking blocks)
+- **Orthoses (AFO)** — Maintain neutral ankle for clearance and stability (**Dose:** During ambulation per therapist prescription)
+",3Et5ZTqMPmU.mp4
+30.0,47.733333333333334,139.52513966480444,0.7942528735632183,0.8941176470588235,0.6422018348623854,0.8131721582780944,0.1647806806372175,0.2041013394531074,0.24042779866408112,0.11974121820315023,"[21, 41, 56, 72, 95, 111, 130, 149, 165, 182, 201, 221, 240, 261, 277, 293, 316, 332, 349, 366, 393, 406, 446, 470, 493, 552, 561, 572, 601, 620, 649, 661, 704, 713, 725, 746, 762, 779, 794, 814, 839, 873, 896, 921, 930, 950, 966, 1022, 1030, 1090, 1117, 1186, 1196, 1224, 1240, 1260, 1320, 1395, 1403]","[11, 29, 58, 66, 86, 116, 141, 194, 230, 279, 286, 295, 305, 342, 388, 427, 441, 478, 486, 517, 532, 548, 571, 595, 622, 637, 671, 701, 733, 750, 785, 799, 810, 842, 868, 899, 919, 960, 1038, 1051, 1075, 1084, 1118, 1131, 1150, 1255, 1270, 1278, 1298, 1351, 1366, 1379]",135.7414544875515,179.95325577816385,44.21180129061236,171.7246235406461,6.501787690973585,137.55741880566592,179.95610335842872,42.3986845527628,165.83465544050088,8.679270254723294,163.15012262746862,179.94670629442945,16.796583666960828,173.7797727785041,3.4504493025017546,161.92689695155806,179.95380741440098,18.02691046284292,173.65065072569675,3.769572789919871,82.02669622508677,178.8014308649302,96.77473463984344,122.19132315582995,12.853286766422311,99.02338635647973,179.89181746321952,80.86843110673979,125.38862969522758,11.537259938364995,3.605500076498322,2.7542608124869137,0.5754887901097065,0.5823625831218324,0.11829722337942744,0.21318825284235465,normal/unclear,,"No strong abnormality detected by rules; prioritize general fitness: brisk walking 20–30 min/day, balance circuits 2–3×/wk, global strength (push/pull/hinge/squat) 2–3×/wk.","# General Conditioning Plan
+
+- Brisk walk 20–30 min daily
+- Balance circuit (tandem stance, single-leg support near counter) 10–15 min, 2–3×/wk
+- Strength: 2–3 sets × 8–12 reps of squats, hip hinges, rows, presses, 2–3×/wk
+",7jJVj2ZNk_E.mp4
+30.0,1.1666666666666667,257.1428571428571,0.26666666666666666,0.3833333333333333,0.16666666666666666,0.43204935397089617,0.1062991258185336,0.1490287715849016,0.2059539931285212,0.1068734139377984,"[5, 13]","[11, 20, 34]",149.06872978527812,179.6158177825659,30.547087997287775,169.22986693834582,8.979248182441482,148.1167141115305,177.3565219873324,29.239807875801887,165.09661110652792,6.217896839664252,168.82603634936999,179.83229106187363,11.006254712503647,174.07666120119933,3.481880781814067,164.5108718056224,177.97493005218925,13.46405824656685,170.1497596866752,3.7267712110951234,111.8196994462186,143.10381676264257,31.28411731642396,129.35178651728333,7.634336703940123,111.27237825632626,131.48757467092247,20.215196414596207,121.74038343722357,5.151076217218881,2.1007750715528823,1.0918238333293084,1.041291393576084,0.47148208457263757,0.3589743479289944,0.3347040637068473,parkinsonian-like; hemiplegic-like,"parkinsonian-like, hemiplegic-like","Hemiplegic, Parkinsonian plan generated","# Gait Rehab Plan
+
+## Hemiplegic Gait
+
+**Goals**
+- Restore symmetrical stance and step timing
+- Facilitate normal kinematics (heel strike, knee control)
+- Strengthen key weak groups (dorsiflexors, hip flexors/abductors)
+**Precautions**
+- Guard against knee hyperextension in stance
+- Use harness/parallel bars early if balance is low
+**Core Interventions (with dosage)**
+- **Weight-shift re-education** — Mirror-guided shifts onto affected limb between parallel bars (**Dose:** 3×10 slow shifts, daily)
+- **Gait phase drills** — Step initiation with heel-first contact; controlled knee flexion (**Dose:** 3×10 steps forward/back, daily)
+- **Strength: dorsiflexors & hip abductors** — Band dorsiflexion; side-lying hip abduction; step-ups (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **FES for foot drop (if available)** — Stimulate tibialis anterior during swing to ensure toe clearance (**Dose:** During 10–20 min walking blocks)
+- **Orthoses (AFO)** — Maintain neutral ankle for clearance and stability (**Dose:** During ambulation per therapist prescription)
+
+## Parkinsonian Gait
+
+**Goals**
+- Increase stride length and arm swing
+- Improve rhythm and initiation (reduce freezing)
+- Upright posture and dynamic balance
+**Precautions**
+- Watch for freezing at doorways/turns; allow extra space
+- Avoid dual-task overload early—progress as tolerated
+**Core Interventions (with dosage)**
+- **Amplitude training (LSVT BIG-style)** — Exaggerated long steps with wide arm swing; cue ‘BIG’ each step (**Dose:** 3×10–15 m, 5–6 days/week; progress speed as safe)
+- **Cueing (auditory/visual)** — Metronome 90–110 bpm or taped floor lines/laser for step targets (**Dose:** Use during 10–15 min walks and turn drills)
+- **Postural extensors strengthening** — Prone/supported back extensions, band rows, hip extensor work (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **Balance + turning practice** — Weight-shifts, tandem walking, 180° turns in small steps (**Dose:** 10–15 min/session, daily)
+- **Freezing strategy** — Stop → weight-shift → step over visual line while counting 1–2 (**Dose:** Rehearse 3–5 min before community ambulation)
+",IV_IsstW-gA.mp4
+30.0,6.8,132.3529411764706,0.8571428571428571,1.0055555555555558,0.49523809523809526,0.7172329162470858,0.33624835983834517,0.22412044139828705,0.3403077923000515,0.1908928794839651,"[13, 30, 58, 69, 105, 132, 144, 193]","[4, 30, 43, 75, 116, 149, 185]",147.11452440715954,179.94625459679597,32.83173018963643,168.3378289279873,7.988661236111346,132.71810662969622,179.90320479824214,47.18509816854592,165.2584653449633,11.065738354651904,157.42170810417443,179.94342759074328,22.521719486568855,171.87801779919116,5.693010177483944,148.34602582614204,179.9619536618866,31.61592783574457,169.218111826342,7.235754396017412,95.95724737042157,178.77441366797873,82.81716629755716,125.9197713125672,16.111063827237786,77.28970287625556,175.4984540361565,98.20875115990093,124.54901787905341,18.18513900709987,2.5546929665974245,4.207751793520795,0.9326313161637497,1.40499540202468,0.15935236300993655,0.40019328053481695,ataxic-like,ataxic-like,Ataxic plan generated,"# Gait Rehab Plan
+
+## Ataxic Gait
+
+**Goals**
+- Enhance trunk control and balance
+- Improve timing/accuracy of limb movements
+- Reduce fall risk with deliberate pacing
+**Precautions**
+- Wide-base device initially (quad cane/walker)
+- Avoid fatigue; rest to keep movements accurate
+**Core Interventions (with dosage)**
+- **Frenkel’s coordination set** — Slow, visually guided heel-to-shin, target taps, foot circles (**Dose:** 10–15 min, 5–6 days/week)
+- **Static→dynamic balance** — Feet together → semi-/full tandem; then line-walk with focus (**Dose:** 10–15 min/session, daily)
+- **Core stabilization** — Pelvic tilts, dead bug, side planks (as tolerated) (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **Sensory weighting** — Light ankle/wrist weights or weighted vest for feedback (**Dose:** Short bouts during gait drills; avoid overloading)
+",TgkxrrhnvlM.mp4
+30.0,7.933333333333334,204.2016806722689,0.5777777777777777,0.5897435897435899,0.3230769230769231,0.6536426017327442,0.23570084289482227,0.30107472686625647,0.25242565729898614,0.16280660725456908,"[17, 36, 55, 76, 96, 115, 132, 151, 183, 190, 198, 217, 225]","[4, 14, 30, 64, 79, 104, 118, 138, 150, 173, 186, 207, 219, 234]",147.60977178816628,179.95690026190425,32.34712847373797,170.89427694784766,8.944403215061808,141.07810442216123,179.91843041117514,38.840325989013905,170.19759359517897,8.72294563621685,162.8289439564694,179.96384172611243,17.134897769643032,175.1783980999008,3.8595709073267632,164.82530362278817,179.936597810572,15.111294187783841,173.8823852911303,4.048825840620598,87.10634528628533,154.04534803349748,66.93900274721214,124.03712102009271,9.001896873922563,94.61714672219757,153.11990109432355,58.50275437212598,126.0476057831245,9.670744400532714,4.33353590113775,3.2536651406969486,1.2367233687890626,1.1701440514573158,0.02049780345560162,0.2435799437173826,normal/unclear,,"No strong abnormality detected by rules; prioritize general fitness: brisk walking 20–30 min/day, balance circuits 2–3×/wk, global strength (push/pull/hinge/squat) 2–3×/wk.","# General Conditioning Plan
+
+- Brisk walk 20–30 min daily
+- Balance circuit (tandem stance, single-leg support near counter) 10–15 min, 2–3×/wk
+- Strength: 2–3 sets × 8–12 reps of squats, hip hinges, rows, presses, 2–3×/wk
+",pu5Vwf1CBO0.mp4
+30.0,4.7,165.9574468085106,0.6047619047619047,1.0833333333333333,0.4333333333333333,0.5320126523701293,0.2782403675225287,0.15596637037882452,0.2834696430866864,0.13870810142028944,"[9, 24, 49, 60, 86, 96, 122, 136]","[7, 32, 67, 106, 137]",153.47815460084306,179.92171750513552,26.443562904292463,169.0472949847585,6.943458605840298,144.4028766286008,179.8954985015354,35.49262187293459,169.17386297119765,9.963160089576272,168.5911991176764,179.9454395918791,11.354240474202697,175.0591528352788,2.9049634999880487,167.12460113002123,179.9591244013778,12.834523271356574,173.75396706176855,3.429061575775467,111.03667613694009,145.52959512450215,34.492918987562064,126.80936255055369,7.65024950160664,106.1476859929631,148.75684632355944,42.60916033059634,127.87174322580458,10.005043921176856,3.797942825726111,3.156210907867987,0.8511991832584307,1.0851346122559018,0.5669957619707131,0.563206329328865,hemiplegic-like; ataxic-like,"hemiplegic-like, ataxic-like","Ataxic, Hemiplegic plan generated","# Gait Rehab Plan
+
+## Ataxic Gait
+
+**Goals**
+- Enhance trunk control and balance
+- Improve timing/accuracy of limb movements
+- Reduce fall risk with deliberate pacing
+**Precautions**
+- Wide-base device initially (quad cane/walker)
+- Avoid fatigue; rest to keep movements accurate
+**Core Interventions (with dosage)**
+- **Frenkel’s coordination set** — Slow, visually guided heel-to-shin, target taps, foot circles (**Dose:** 10–15 min, 5–6 days/week)
+- **Static→dynamic balance** — Feet together → semi-/full tandem; then line-walk with focus (**Dose:** 10–15 min/session, daily)
+- **Core stabilization** — Pelvic tilts, dead bug, side planks (as tolerated) (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **Sensory weighting** — Light ankle/wrist weights or weighted vest for feedback (**Dose:** Short bouts during gait drills; avoid overloading)
+
+## Hemiplegic Gait
+
+**Goals**
+- Restore symmetrical stance and step timing
+- Facilitate normal kinematics (heel strike, knee control)
+- Strengthen key weak groups (dorsiflexors, hip flexors/abductors)
+**Precautions**
+- Guard against knee hyperextension in stance
+- Use harness/parallel bars early if balance is low
+**Core Interventions (with dosage)**
+- **Weight-shift re-education** — Mirror-guided shifts onto affected limb between parallel bars (**Dose:** 3×10 slow shifts, daily)
+- **Gait phase drills** — Step initiation with heel-first contact; controlled knee flexion (**Dose:** 3×10 steps forward/back, daily)
+- **Strength: dorsiflexors & hip abductors** — Band dorsiflexion; side-lying hip abduction; step-ups (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **FES for foot drop (if available)** — Stimulate tibialis anterior during swing to ensure toe clearance (**Dose:** During 10–20 min walking blocks)
+- **Orthoses (AFO)** — Maintain neutral ankle for clearance and stability (**Dose:** During ambulation per therapist prescription)
+",uV6dPE2sz7k.mp4
+30.0,5.8,237.93103448275863,0.5366666666666666,0.509090909090909,0.34545454545454546,0.6417312501313545,0.26915761594681786,0.35226783983010646,0.30508477234383813,0.14521938787465938,"[5, 17, 42, 52, 75, 87, 110, 121, 146, 155, 166]","[1, 27, 37, 57, 71, 91, 105, 122, 131, 139, 159, 169]",145.21940442748087,179.9556294900265,34.73622506254563,170.41197298481094,9.288191816503913,139.46361389095392,179.804633389425,40.34101949847107,167.63346028190733,10.113902879547778,168.0194074067204,179.93022790879442,11.910820502074017,175.39722115399564,2.997019187571027,162.6660923785885,179.9623910320819,17.29629865349341,173.19424739189313,4.570396246542892,110.83666475051955,139.22295625367119,28.38629150315164,126.90833342515681,5.713609771229909,94.38878187186474,149.905485045724,55.516703173859256,123.61630653341147,11.923614997508796,3.957407815115771,5.126500342573481,1.338526588313477,1.79557308495901,0.05273833570538102,0.2674825127804159,ataxic-like,ataxic-like,Ataxic plan generated,"# Gait Rehab Plan
+
+## Ataxic Gait
+
+**Goals**
+- Enhance trunk control and balance
+- Improve timing/accuracy of limb movements
+- Reduce fall risk with deliberate pacing
+**Precautions**
+- Wide-base device initially (quad cane/walker)
+- Avoid fatigue; rest to keep movements accurate
+**Core Interventions (with dosage)**
+- **Frenkel’s coordination set** — Slow, visually guided heel-to-shin, target taps, foot circles (**Dose:** 10–15 min, 5–6 days/week)
+- **Static→dynamic balance** — Feet together → semi-/full tandem; then line-walk with focus (**Dose:** 10–15 min/session, daily)
+- **Core stabilization** — Pelvic tilts, dead bug, side planks (as tolerated) (**Dose:** 2–3 sets × 8–12 reps, 3–4 days/week)
+- **Sensory weighting** — Light ankle/wrist weights or weighted vest for feedback (**Dose:** Short bouts during gait drills; avoid overloading)
+",wRntYsztIEY.mp4

@@ -1,0 +1,37 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Virtual Environments
+# =====================
+venv/
+.env/
+
+# =====================
+# IDE / Editor
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Jupyter / Logs (if any)
+# =====================
+.ipynb_checkpoints/
+*.log
+
+# =====================
+# Output files (optional)
+# Uncomment if you DON'T want results tracked
+# =====================
+# results/*.csv
